@@ -1,5 +1,4 @@
 # VBA-_HW_Easy
-I saved codes in ms word
 
 Sub stock_analysis()
 'delcare varables and make sure to activate the WS
